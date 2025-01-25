@@ -4,7 +4,7 @@
 
 [project]
 name = "stylelint-feedstock"
-version = "3.45.2"
+version = "3.45.4"
 description = "Pixi configuration for conda-forge/stylelint-feedstock"
 authors = ["@conda-forge/stylelint"]
 channels = ["conda-forge"]
