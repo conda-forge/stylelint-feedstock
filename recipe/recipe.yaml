@@ -1,5 +1,5 @@
 context:
-  version: "16.20.0"
+  version: "16.21.0"
 
 package:
   name: stylelint
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/stylelint/-/stylelint-${{ version }}.tgz
-  sha256: 743a70841c93ae3fdcac93d5ef3d30467d1783f4a1d238a301016a96358e0649
+  sha256: bdfba071e2d7caa2c9fdb2229a584b660f2a00b815a00e81f6837e4e05d069bc
 
 build:
   number: 0
